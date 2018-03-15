@@ -19,6 +19,12 @@ Hack together a Flask API to serve the Yahoo Open-NSFW Tensorflow Model:
     2) process it with Flask and Tensorflow
     3) return Suitable-For-Work metric (0-10)
 
+## Interaction
+
+To post an image to the API, cd into the directory that the image is in and use curl (below)
+```
+curl -X POST -F 'image=@test.jpg' http://localhost:5000/predict
+```
 
 ## Release History
 

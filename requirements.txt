@@ -1,6 +1,6 @@
-scikit_image==0.13.0
-Flask==0.12.2
-numpy==1.14.1
+scikit_image
+Flask
+numpy
 tensorflow
-Pillow==5.0.0
-image_utils==0.1.6
+Pillow
+image_utils

@@ -4,4 +4,3 @@ numpy==1.14.1
 tensorflow
 Pillow==5.0.0
 image_utils==0.1.6
-skimage==0.0
